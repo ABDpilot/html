@@ -36,10 +36,9 @@ The chatbot interface is designed to interact with users by responding to their 
 
 ## Usage
 
-1. Open `gollum.html` in a modern web browser.
-2. Interact with the chatbot by typing messages in the input box or clicking on suggestion bubbles.
-3. Use the settings panel to change language, toggle dark mode, and customize colors.
-4. Use the sidebar buttons to start a new chat or view historical chats.
+1. Interact with the chatbot by typing messages in the input box or clicking on suggestion bubbles.
+2. Use the settings panel to change language, toggle dark mode, and customize colors.
+3. Use the sidebar buttons to start a new chat or view historical chats.
 
 ## File Structure
 
